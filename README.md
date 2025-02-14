@@ -54,7 +54,7 @@ flowchart LR
 - Click on your head repository's `compare` dropdown, and switch branches from your 'main' branch to `<new branch name>`.
 - Finally, click the green `Create Pull Request` button. Great job! You did it!
 
-You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/open-source-practice/issues/new).
+You can ask questions by raising an [issue](https://github.com/EddieHubCommunity/open-source-practice/issues/created_by/New).
 
 ### Option 2. Complete this process on your computer (locally)
 
